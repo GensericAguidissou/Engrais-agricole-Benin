@@ -35,5 +35,5 @@ Ce projet est actuellement maintenu par moi. Les contributions sont les bienvenu
 ## D'où proviennent les Données ?
 Les données ont été extraites de l'outil FAOSTAT.
 
-## Me contacter 📩** Vous pouvez m'envoyer un mail à l'adresse : aguidissugenseric@gmail.com
+## Me contacter 📩 Vous pouvez m'envoyer un mail à l'adresse : aguidissugenseric@gmail.com
 
