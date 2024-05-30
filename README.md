@@ -1,9 +1,7 @@
 # Engrais-agricole-Benin
 Cet projet examine l’évolution de l’utilisation des engrais agricoles au Bénin, en mettant l’accent sur l’influence des politiques gouvernementales et des pratiques agricoles. Elle souligne également le rôle des différents régimes politiques dans cette évolution.
 
-## Analyse de l'Utilisation des Différents Types d'Engrais (N, P et K) au Bénin au Fil des Années et Sous Différents Régimes Politiques : Cette étude offre un aperçu détaillé de l'utilisation des engrais N, P et K au Bénin, en se basant sur les données disponibles via l'outil FAOSTAT. 
-
-Mon analyse se concentrera sur les aspects suivants :
+## Mon analyse se concentrera sur les aspects suivants :
 
 1- Comment évolue l’utilisation de chacun des trois engrais agricoles au fil du temps ?
 
